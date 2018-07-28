@@ -11,3 +11,4 @@ This will trigger the message with those values to the queue named "CAT"
 
 to view the message in queue go to http://localhost:15672/
 ![alt text](screenshots/requeue.png "Description goes here")
+It should show a message in queue, in this case "cat.queue".
