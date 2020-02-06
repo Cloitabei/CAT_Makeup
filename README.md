@@ -1,4 +1,4 @@
-# CAT_Makeup
+# SPRING WITH REST
 This program Integrates SpringBoot and RabbitMQ
 
 The RabbitMQSender class in the controller sends a message to the RabbitMQ which is then pushed to a queue
